@@ -65,6 +65,10 @@ if __name__ == '__main__':
 
 上述代码和图来自于《Fluent Python 2ed》。
 
+## 装饰器
+
+装饰器就是一种闭包。
+
 # 实战(where)
 
 # when
