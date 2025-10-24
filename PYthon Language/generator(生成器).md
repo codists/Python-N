@@ -1,4 +1,4 @@
-# 定义
+# 定义(what)
 
 ## 官方定义
 
@@ -18,7 +18,9 @@ generator 的定义里面包含了另外一个概念“generator iterator”，�
 
 生成器是一种边迭代边计算的机制。
 
-# 实现
+# 动机(why)
+
+# 实现(how)
 
 生成器有两种实现方式：generator function(生成器函数)，generator expression(生成器表达式)。
 
@@ -38,15 +40,17 @@ generator 的定义里面包含了另外一个概念“generator iterator”，�
 
 ```
 
-# 意义
+# 实战(where)
 
-- 节省内存。
-
-# 实战
-
-TBD
+todo.
 
 大部分场景都是直接生成数据，因为很多时候数据是没有规律的，什么时候能够应用生成器呢？
+
+# when
+
+在 Python 2.2 引入。
+
+# who
 
 # 参考资料
 
