@@ -29,6 +29,22 @@ iterator 的应用场景是什么？
 
 什么时候实现的 iterator?
 
+# Python 学习路线
+
+## 基础
+
+《Core Python Programming(2nd)》《Python 核心编程(第2版本)》
+
+## 进阶
+
+并发
+
+设计模式
+
+算法
+
+## 行业
+
 # Python 相关文档
 
 - Document
