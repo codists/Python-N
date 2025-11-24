@@ -2,7 +2,7 @@
 
 ## 作用
 
- weak “internal use” indicator. E.g. `from M import *` does not import objects whose names start with an underscore.
+ weak “internal use” indicator. E.g. `from M import ` does not import objects whose names start with an underscore.
 
 ## 示例
 
