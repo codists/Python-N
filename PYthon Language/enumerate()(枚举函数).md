@@ -40,7 +40,7 @@ print(type(data))  # <class 'enumerate'>
 
 # 实战(where)
 
-Python Library reference 的示例代码很简洁，但是却没有体现出使用 enumerate() 的目的——获取 index 后却没有使用。这里列举一些例子。
+Python Library reference 的示例代码很简洁，但是却没有体现出使用 enumerate() 的目的——遍历时需要获取索引。
 
 1.将整数序列编码为二进制矩阵
 
@@ -70,7 +70,7 @@ Python 2.3 引入。
 
 # 要求
 
-虽然 enumerate() 是一个内置函数，但在实际编程中应用的场景较少，了解即可(其实也没多少内容)。
+虽然 enumerate() 是一个内置函数，但在实际编程中应用的场景较少，了解即可。
 
 # 参考资料
 

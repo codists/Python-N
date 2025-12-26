@@ -165,6 +165,11 @@ if __name__ == '__main__':
 
 1.同一个进程里面的所有线程共享该进程的数据。
 
+## 函数式用法&类用法
+
+- 函数式用法
+- 类用法
+
 # 说明
 
 1.有时候会看到 a sequence of, a set of 交换使用，如：a set of instructions, a sequence of instructions。两者没有区别，都表示“一系列”，“一连串”，“一组”，“一些”。
